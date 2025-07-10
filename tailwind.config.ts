@@ -13,6 +13,16 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+
+      colors: {
+        mazSky:"#C3EBFA",
+        mazSkylight:"#EDF9FD",
+        mazPurple:"#CFCEFF",
+        mazPurplelight:"#F1F0FF",
+        mazYellow:"#FAE27C",
+        mazYellowlight:"#FEFCE8"
+
+      }
     },
   },
   plugins: [],
